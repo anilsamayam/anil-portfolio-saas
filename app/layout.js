@@ -3,7 +3,7 @@ import "../styles/globals.css";
 
 export const metadata = {
   title: "Anil Samayam | AI Engineer & Integration Architect",
-  description: "AI Engineer and Integration Architect portfolio of Anil Samayam"
+  description: "AI Engineer & Integration Architect with 11+ years of enterprise experience"
 };
 
 export default function RootLayout({ children }) {
