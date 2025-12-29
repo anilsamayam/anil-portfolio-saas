@@ -9,6 +9,7 @@ export default function Chatbot() {
   async function ask() {
     const res = await fetch("/api/chat", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ question: q })
     });
     const data = await res.json();
