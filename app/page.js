@@ -30,7 +30,7 @@ export default function Home() {
         <ul>
           <li><strong>HTC Global Services</strong> — Integration Architect & AI Engineer (2024 – Present)</li>
           <li><strong>Wipro</strong> — Technical Lead (2023 – 2024)</li>
-          <li><strong>Previous Roles</strong> — Senior Integration Engineer</li>
+          <li><strong>Earlier Roles</strong> — Senior Integration Engineer</li>
         </ul>
       </section>
 
